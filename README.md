@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&text=Frontend&color=gradient)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=radical)
 <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=radical">
 
