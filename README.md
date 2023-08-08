@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning React.js
 
-🦁 LIKELION_KONKUK.UNIV 11th
+🦁 LIKELION_KONKUK 11th
 
 🐰 Elice SW Engineer Track 6th
 
