@@ -1,6 +1,9 @@
 ### Hi there 👋
 🌱 I’m currently learning React.js
+
 📫 How to reach me : jin04007@naver.com
+
+
 <!--
 **jinsupark4255/jinsupark4255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
