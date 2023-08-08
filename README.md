@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning React.js
 
+🐰 Elice SW Engineer Track 6th
+
 📫 How to reach me : jin04007@naver.com
 
 <!--
