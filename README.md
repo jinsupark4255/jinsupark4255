@@ -1,5 +1,3 @@
-<div align="center">
-  
 ### Hi there 👋
 🌱 I’m currently learning React.js
 
@@ -26,4 +24,3 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
-</div>
