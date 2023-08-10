@@ -11,7 +11,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Frontend&color=gradient)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin04007)](https://solved.ac/jin04007/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=radical)
 
 <img
     src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"
