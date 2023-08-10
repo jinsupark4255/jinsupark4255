@@ -9,7 +9,6 @@
 
 💻 My blog : https://velog.io/@jin04007
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Frontend&color=gradient)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=radical)
 
