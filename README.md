@@ -9,8 +9,9 @@
 
 💻 My blog : https://velog.io/@jin04007
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=highcontrast)
+
 
 <img
     src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"
