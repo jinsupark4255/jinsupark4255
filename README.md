@@ -3,8 +3,6 @@
 
 🦁 LIKELION_KONKUK 11th
 
-🐰 Elice SW Engineer Track 6th
-
 📫 How to reach me : jin04007@naver.com
 
 💻 My blog : https://velog.io/@jin04007
