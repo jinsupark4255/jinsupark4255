@@ -1,6 +1,6 @@
 ### 안녕하세요. <br>프론트엔드 개발자 박진수 입니다. 👋
 
-🌱 현재 React와 Typescript를 사용하여 프론트엔드 개발을 진행하고 있습니다.
+🌱 React와 Typescript를 사용하여 프론트엔드 개발을 진행하고 있습니다.
 
 🦁 LIKELION_KONKUK 11th
 
