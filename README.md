@@ -1,4 +1,4 @@
-### 안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /><br>꾸준히 성장해나가는 프론트엔드 개발자 박진수 입니다.
+### 안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /><br>꾸준히 성장해 나가는 프론트엔드 개발자 박진수 입니다.
 
 🦁 LIKELION_KONKUK 11th
 
