@@ -2,13 +2,10 @@
 ### 꾸준한 성장을 보여주는 <br/> 프론트엔드 개발자 박진수 입니다.
 <img src="https://github.com/jinsupark4255/jinsupark4255/assets/116702892/dc18e8a4-1c40-4c5b-8ecc-d4154630442f" width="250" height="250">
 
-
-📫 이메일 주소 : jin04007@naver.com
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=dark)
 
-
+<br>
 <img
     src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"
   />
