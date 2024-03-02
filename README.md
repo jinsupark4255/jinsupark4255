@@ -1,5 +1,7 @@
 ## 안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /><br>
-### 꾸준한 성장을 보여주는 <br/> 프론트엔드 개발자 박진수 입니다.
+### 꾸준한 성장을 보여주는 프론트엔드 개발자 박진수 입니다.
+### 원할한 소통을 통해 모두가 만족하는 서비스 구현을 목표하고 있습니다.
+<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=dark)
