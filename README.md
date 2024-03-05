@@ -1,4 +1,4 @@
-<h1>안녕하세요</h1>
+<h1>안녕하세요 <img src="https://media.giphy.com/media/igPDtkfSJZMFwE0LP8/giphy.gif" width="40" /></h1>
 
 [**꾸준한 성장**](#)을 보여주는 프론트엔드 개발자 박진수 입니다.
 
