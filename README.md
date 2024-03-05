@@ -4,9 +4,6 @@
 
 [**원활한 소통**](#)을 통해 모두가 만족하는 서비스 구현을 목표하고 있습니다.
 
-<br>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=dark)
 
