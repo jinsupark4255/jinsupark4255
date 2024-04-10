@@ -26,3 +26,6 @@
     src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"
   />
  
+## 👨🏻‍💻 Careers
+
+- **Fasoo** Front-end Developer (2024.04. ~ ing)
