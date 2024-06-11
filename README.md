@@ -28,4 +28,4 @@
  
 ## 👨🏻‍💻 Careers
 
-- **Fasoo** Front-end Developer (2024.04. ~ ing)
+- **Fasoo** Front-end Developer Intern (2024.04. ~ 2024.06)
