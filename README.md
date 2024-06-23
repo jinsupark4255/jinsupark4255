@@ -28,5 +28,5 @@
  
 ## 👨🏻‍💻 Careers
 
-- ### Fasoo
+- ### 주식회사 파수
   Front-end Developer Intern (2024.04 ~ 2024.06)
