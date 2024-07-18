@@ -4,9 +4,7 @@
 
 ### 원활한 소통을 기반으로 모두가 만족하는 서비스 구현을 목표합니다.
 
-<br>
-
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br/>
 
 <img
     src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"
