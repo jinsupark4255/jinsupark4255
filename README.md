@@ -4,11 +4,6 @@
 
 ### 원활한 소통을 기반으로 모두가 만족하는 서비스 구현을 목표합니다.
 
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=dark)
-
 
 <img
     src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"
