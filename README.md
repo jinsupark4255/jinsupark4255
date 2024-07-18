@@ -9,5 +9,5 @@
     
 <h1>👨🏻‍💻 Careers</h1>
 
-- ### 파수
+- ### 파수 (Fasoo)
   Front-end Developer Intern (2024.04 ~ 2024.06)
