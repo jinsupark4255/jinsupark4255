@@ -4,10 +4,29 @@
 
 ### 원활한 소통을 기반으로 모두가 만족하는 서비스 구현을 목표합니다.
 
-<br/>
+<br>
 
-    
-<h1>👨🏻‍💻 Careers</h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsupark4255&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsupark4255&layout=compact&theme=dark)
+
+
+<img
+    src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"
+  />
+   <img
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"
+  />
+    <img
+    src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"
+  />
+ 
+## 👨🏻‍💻 Careers
 
 - ### 파수 (Fasoo)
   Front-end Developer Intern (2024.04 ~ 2024.06)
