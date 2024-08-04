@@ -27,6 +27,8 @@
   />
  
 ## 👨🏻‍💻 Careers
+- ### 오오칠팔구 (ohohchilpalgu)
+  Front-end Developer (2024.08 ~ ing)
 
 - ### 파수 (Fasoo)
   Front-end Developer Intern (2024.04 ~ 2024.06)
