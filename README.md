@@ -27,7 +27,7 @@
   />
  
 ## 👨🏻‍💻 Careers
-- ### 오오칠팔구 (ohohchilpalgu)
+- ### 오오칠팔구 (Weeks52)
   Front-end Developer (2024.08 ~ ing)
 
 - ### 파수 (Fasoo)
