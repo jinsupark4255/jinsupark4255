@@ -26,6 +26,3 @@
     src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"
   />
  
-## 👨🏻‍💻 Careers
-- ### 파수 (Fasoo)
-  Front-end Developer Intern (2024.04 ~ 2024.06)
